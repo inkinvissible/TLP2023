@@ -30,7 +30,7 @@
 # # Llamamos a la función correspondiente a la opción elegida
 # opciones[opcion]()
 
-
+#Modificacion en comentariops
 lado = int(input("Ingrese la medida del lado del cuadrado\n"))
 superficie = lado*lado
 print("La sup del cuadrado es: ")
